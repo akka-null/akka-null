@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there , i'm akka a backend developer specializing in Node.js
+* a computre science student (dropout :D)
+* 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+* My coding journey began with C and i loved and enjoyed learning Data Structures and algorithmes with it
+* I’m playing around with Go and Vue.js at the moment
+* ⚡ My Adivce: Vim your life and !:q learning
 <!--
 **akka-null/akka-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
